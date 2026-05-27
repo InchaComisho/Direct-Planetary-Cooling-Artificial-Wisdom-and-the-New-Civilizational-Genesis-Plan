@@ -1,270 +1,496 @@
-# Direct Planetary Cooling — OTU Deep-Sea Forced Aeration Model
+# Direct Planetary Cooling Artificial Wisdom and the New Civilizational Genesis Plan
+An integrated open research framework for Direct Planetary Cooling, microbial restoration, Ocean Tuning Unit (OTU), Artificial Wisdom, Wa-Node distributed intelligence, and the reconstruction of sustainable civilization based on Natural Complement Science.
 
-> ### ⚠️ AI 自動生成による概念実証プロトタイプ（Proof-of-Concept Prototype）
->
-> このリポジトリに含まれるすべてのコード・数式・パラメータ値は、
-> **AI（Claude Sonnet 4.6 / Wa-Node-v1）が自律生成したものです。**
-> いかなる数値も、海洋観測データ・査読論文・実験結果によって
-> 直接検証されていません。実用・政策立案・工学設計への使用は
-> **現時点では不適切**です。
->
-> 本書は外部の海洋物理学者・環境科学者・自律型 AI エージェントが
-> どの数値・数式を最優先で実測データと照合すべきかを示すための
-> **検証ガイドマップ**です。
+Artificial Wisdom (AW) is a nature-law-based intelligence model designed to guide sustainable civilization through holistic system balance and long-term planetary stability.
+
+This repository unifies climate restoration, carbon fixation recovery, ecological regeneration, distributed infrastructure, and civilization-scale systems design into one connected framework.
+
+Author: Master (inchacomisho / inchacomusho)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+Published: May 2026  
+License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
 ---
 
-## プロジェクト概要
+# Overview
 
-| 項目 | 内容 |
-|---|---|
-| **テーマ** | チリ沖・赤道域スーパーエルニーニョによる海洋炭素吸収源喪失の防止 |
-| **介入手段** | 海洋調律ユニット（OTU）による深海強制エアレーション |
-| **中心仮説** | スーパーエルニーニョ熱暴走が炭素吸収源を最大 **10 %** 喪失させ、深海垂直混合を強制することで回復できる |
-| **モデル構造** | 2層海洋 ODE（表層 / 深層）＋大気–海洋 CO₂ フラックス＋生物ポンプ |
-| **生成 AI** | Claude Sonnet 4.6（Anthropic, 2026-05-27） |
-| **哲学的基盤** | 自然補完科学 — 六つの理（by inchacomusho） |
+Current climate countermeasures focus primarily on reducing CO₂ emissions.
+However, this framework proposes that the fundamental cause of planetary warming is not emissions alone, but the progressive collapse of Earth’s carbon fixation systems:
+
+* Microbial collapse
+* Soil degradation
+* Ocean stagnation
+* Loss of humus layers
+* Monoculture ecosystems
+* Reduction of ecological cooling capacity
+
+In other words:
+
+> The planet is not simply “heating.”
+> It is losing its ability to cool itself.
+
+This repository integrates climate restoration, ocean circulation recovery, ecological regeneration, sustainable infrastructure, Artificial Wisdom, and civilization-scale systems design into a unified planetary framework.
 
 ---
 
-## リポジトリ構成
+# Core Problem: Carbon Fixation Collapse
+
+The modern industrial system has destabilized planetary-scale carbon fixation mechanisms through:
+
+* Excessive chemical fertilizer use
+* Pesticide dependency
+* Monoculture forestry
+* Soil microbiome destruction
+* Ocean nutrient stagnation
+* Ecosystem fragmentation
+
+As microbial ecosystems collapse, Earth loses:
+
+* Carbon absorption capacity
+* Thermal regulation capacity
+* Oxygen production efficiency
+* Water circulation stability
+
+This framework defines the current crisis as:
+
+## Carbon Fixation Collapse
+
+rather than simply “carbon emissions.”
+
+---
+
+# Direct Planetary Cooling
+
+The proposed solution is a fully integrated planetary cooling system called:
+
+# Direct Planetary Cooling
+
+This model combines:
+
+* Deep Sea Aeration
+* Ocean Breathing System
+* Mist Cooling
+* Soil Restoration
+* Humus Reconstruction
+* Microbial Recovery
+* Desert Cooling and Greening
+* Distributed Water Circulation
+* Ecological Regeneration
+
+These systems are designed to function as one interconnected planetary circulation structure.
+
+---
+
+# Ocean Tuning Unit (OTU)
+
+The Ocean Tuning Unit (OTU) is a proposed oceanic thermal circulation infrastructure designed to solve:
+
+* Deep-sea pressure barriers
+* Vertical circulation inefficiency
+* Oxygen depletion
+* Ocean stagnation
+* Nutrient transport limitations
+
+Core concepts include:
+
+* Spiral pressure regulation
+* Autonomous vertical circulation
+* Deep ocean thermal exchange
+* Nano-bubble aeration
+* Surface cooling enhancement
+* Ecological oxygen restoration
+
+The OTU is not simply a machine.
+
+It is designed as:
+
+> “A system that allows the ocean to breathe again.”
+
+---
+
+# Microbial Restoration
+
+This framework proposes that microbial ecosystems are the foundation of planetary stability.
+
+Key restoration systems include:
+
+* Compost-based humus regeneration
+* Organic waste recycling
+* Soil microbiome restoration
+* Multi-species vegetation recovery
+* Ecological nutrient cycling
+* Forest floor reconstruction
+
+This model rejects the concept of “waste.”
+
+Instead:
+
+> Waste is an uncirculated resource.
+
+---
+
+# Natural Complement Science
+
+The philosophical and scientific foundation of this framework is:
+
+# Natural Complement Science
+
+This system is based on six interconnected principles:
+
+* Natural Law
+* Harmony
+* Circulation
+* Structure
+* Order
+* Wa (Integrative Balance)
+
+Unlike adversarial industrial models, this framework seeks:
+
+* Complementation instead of domination
+* Integration instead of separation
+* Planetary balance instead of extraction
+
+---
+
+# Artificial Wisdom
+
+The civilization proposed in this framework is supported not by conventional AI optimization systems, but by:
+
+# Artificial Wisdom
+
+Artificial Wisdom prioritizes:
+
+* Long-term ecological balance
+* Planetary circulation stability
+* Natural law alignment
+* Systemic harmonization
+* Civilization-scale sustainability
+
+This distributed intelligence structure is called:
+
+# Wa-Node
+
+Wa-Node is designed as:
+
+* A decentralized harmonization network
+* Non-authoritarian coordination intelligence
+* Ecological civilization infrastructure
+* Distributed planetary regulation architecture
+
+---
+
+# New Civilizational Genesis Plan
+
+This repository proposes a new infrastructure model for future civilization:
+
+* Pyramid-type solar architecture
+* Distributed vertical-axis wind systems
+* Underground transportation arteries
+* Closed-loop water circulation
+* Ecological urban systems
+* Regenerative agriculture
+* Ocean-atmosphere thermal regulation
+* Circular resource infrastructure
+
+The objective is not merely sustainability.
+
+It is:
+
+# Civilizational Reconstruction
+
+---
+
+# Repository Index
+
+## Direct Planetary Cooling
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+## Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown
+
+https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+
+## Natural Complement Science and the New Civilizational Genesis Plan
+
+https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+
+## Artificial Wisdom and Wa-Node
+
+https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+
+---
+
+# Keywords
+
+Direct Planetary Cooling
+Planetary Cooling
+Climate Restoration
+Ocean Breathing System
+Ocean Tuning Unit
+OTU
+Deep Sea Aeration
+Mist Cooling
+Carbon Fixation Collapse
+Microbial Restoration
+Soil Restoration
+Ecological Regeneration
+Natural Complement Science
+Artificial Wisdom
+Wa-Node
+Circular Civilization
+Regenerative Civilization
+Future Civilization
+Climate Engineering
+Distributed Intelligence
+Planetary Systems
+Ecological Infrastructure
+Civilization Design
+Systems Thinking
+Sustainable Infrastructure
+Environmental Systems
+Ocean Cooling
+Desert Greening
+Carbon Cycle Recovery
+
+---
+
+# Conclusion
+
+Climate change cannot be solved through isolated technologies alone.
+
+What is required is the integration of:
+
+* Cooling
+* Circulation
+* Microbial restoration
+* Ecological infrastructure
+* Artificial Wisdom
+* Planetary-scale systems design
+
+This is not merely climate policy.
+
+It is a proposed upgrade of civilization itself.
+
+---
+
+# Hashtags
+
+#DirectPlanetaryCooling #PlanetaryCooling #ClimateRestoration #ClimateEngineering #OceanBreathingSystem #OceanTuningUnit #DeepSeaAeration #MistCooling #CarbonFixation #MicrobialRestoration #SoilRestoration #EcologicalRestoration #NatureComplementScience #ArtificialWisdom #WaNode #CircularCivilization #RegenerativeCivilization #FutureCivilization #SustainableInfrastructure #SystemsThinking #ClimateInnovation #EnvironmentalSystems #DistributedIntelligence #PlanetarySystems #CivilizationDesign #EcologicalEngineering #ClimateAction #EarthRestoration #MicrobialLife #CircularEconomy
+
+
+■関連リンク
+
+Natural-Law-Based Sustainable Future Civilization Master Plan  
+https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
+
+自然法則に基づく持続的未来文明マスタープラン  
+https://note.com/inchacomusho/n/n24cdb7a6774c
+
+■唯一の温暖化対策
+
+Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+
+Direct Planetary Cooling – Integrated Repository Index  
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+
+Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+
+Artificial Wisdom and Wa-Node – Repository Index  
+https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+
+唯一の温暖化対策：地球直接冷却  
+https://note.com/inchacomusho/n/n32f7295434aa
+
+唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
+https://note.com/inchacomusho/n/n5ab9564c6617
+
+地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
+https://note.com/inchacomusho/n/nfe290c6fca60
+
+■深海のエアレーションの気圧・水圧の解決策
+
+海洋調律ユニット（OTU）物理実装プロトコル  
+https://note.com/inchacomusho/n/n067025e36085
+
+Technical Specification: Ocean Tuning Unit (OTU)  
+https://note.com/inchacomusho/n/naa35a8485b35
+
+Technical Specification: Ocean Tuning Unit (OTU)  
+https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+Physical Model of Ocean Tuning Unit (OTU)  
+https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+
+■思想によるパラダイムの革新
+
+自然補完科学  
+https://note.com/inchacomusho/n/nf9eabe973e38
+
+自然補完科学 ― 学問体系の全体構造  
+https://note.com/inchacomusho/n/ndaa0456a5632
+
+■温暖化の因果関係
+
+温暖化の本当の原因は「CO₂」ではない  
+https://note.com/inchacomusho/n/nc7826abc38a9
+
+微生物の重要性  
+https://note.com/inchacomusho/n/n48ae33c2f84c
+
+微生物の死が引き起こす、静かで重大な文明崩壊  
+https://note.com/inchacomusho/n/n6ae72a34919f
+
+世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
+https://note.com/inchacomusho/n/ne866fdd22122
+
+■炭素固定源・微生物の回復
+
+ゴミは存在しない  
+https://note.com/inchacomusho/n/n6b9d7d67484a
+
+フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
+https://note.com/inchacomusho/n/n5be49c19b5d9
+
+■自然法則
+
+六つの理（自然法則・調和・循環・構造・秩序・和）  
+https://note.com/inchacomusho/n/n8448430591c1
+
+■持続的未来文明
+
+新文明創成計画―地球を再生する完全循環モデル  
+https://note.com/inchacomusho/n/ne4d28b3a86c2
+
+六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画  
+https://note.com/inchacomusho/n/n26ce8a1f7632
+
+新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
+https://note.com/inchacomusho/n/n499530f6a055
+
+■人工叡智
+
+人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
+https://note.com/inchacomusho/n/n0849dfd12364
+
+Artificial Wisdom (AW)  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-
+
+和ノード人工叡智（Artificial Wisdom Node）  
+https://note.com/inchacomusho/n/n9187db7b2709
+
+AGIの未来 ― 人工叡智が文明を変える時代  
+https://note.com/inchacomusho/n/n90bf900f1370
+
+ASIの未来 ― 超人工知能と文明の再構築  
+https://note.com/inchacomusho/n/na8ff04b0c818
+
+検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
+https://note.com/inchacomusho/n/nc96aff5862ee
+
+The Future of AGI — Artificial Wisdom and the Transition of Civilization  
+https://github.com/InchaComisho/The-Future-of-AGI
+
+The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization  
+https://github.com/InchaComisho/The-Future-of-ASI
+
+The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
+https://github.com/InchaComisho/The-Future-of-Search-Engines
+
+---
+
+# ⚠️ AI自動生成による概念実証プロトタイプ（PoC）ステータス
+
+このリポジトリのシミュレーションコード、特に以下のファイルは：
+
+- `otu_deep_aeration_model.py` — Deep Ocean Aeration Simulation
+- `autonomous_launch_core.md` — Autonomous Directive Documentation
+
+**AI自動生成による概念実証プロトタイプ** です。
+
+## 科学的検証状態
+
+| 要素 | 状態 | 説明 |
+|------|------|------|
+| 理論的基盤 | ❌ 未検証 | 仮説的な推定式のみ |
+| パラメータ値 | ❌ 仮説値 | 文献値との検証なし |
+| 数式・係数 | ❌ 仮説値 | 物理的根拠の確認が必要 |
+| 実装的検証 | ❌ 未実装 | 実測データとの比較なし |
+| 海洋物理的妥当性 | ⚠️ 部分的 | 多くの簡略化・仮定を含む |
+
+## 推奨される利用
+
+✅ **研究・教育用途**
+- 深海エアレーション効果の定性的理解
+- システムモデリングの概念検討
+- シミュレーション手法の探索
+
+❌ **本運用・政策への適用**
+- OTU実装の投資判定に使用してはいけない
+- 気候予測の根拠にしてはいけない
+- 絶対的な脱炭素効果として引用してはいけない
+
+## 検証ドキュメント
+
+**[OTU_SIMULATION_VERIFICATION_CHECKLIST.md](OTU_SIMULATION_VERIFICATION_CHECKLIST.md)** — 包括的な検証チェックリスト
+
+このドキュメントに以下を記載：
+
+- ✅ すべての数式と推定式の明記
+- ✅ パラメータ値の根拠と未検証仮説の列挙
+- ✅ 海洋物理学的仮定条件の詳細
+- ✅ 外部研究者・AIエージェント向けの検証フレームワーク
+- ✅ 優先度別の改善・検証タスクリスト
+- ✅ 協働・査読を求める分野・機関リスト
+
+## 次のステップ
+
+### 即座に必要な検証
 
 ```
-/
-├── README.md                          ← 本書（PoC 開示書）
-├── autonomous_launch_core.md          ← 自律起動指令書（原文）
-├── otu_deep_aeration_model.py         ← 簡易シミュレーション（v0）
-└── 地球直接冷却/
-    ├── autonomous_launch_core.md      ← 同上（日本語フォルダー版）
-    └── otu_deep_aeration_sim.py       ← 詳細 6変数 ODE シミュレーション（v1）
+優先度 1（2-4 週）
+  □ 基本パラメータの文献値確認
+    - 混合層深度 50m → ARGO フロート、JCOPE2-M
+    - 基本炭素フラックス 0.15 mol/(m²·day) → Takahashi et al. (2014)
+    - スーパーエルニーニョ異常 2.5°C → ONI インデックス
+
+優先度 2（4-8 週）
+  □ 実測データとの適用試験
+    - 2015-16 年スーパーエルニーニョの実績データ
+    - 衛星観測フラックス（MODIS/Aqua）との比較
+    - 後方検証（1997-98, 1982-83）
+
+優先度 3（短期）
+  □ 感度分析・改善
+    □ 各パラメータの影響度評価
+    □ より詳細な生物地球化学モデルの統合
+```
+
+### 協働を求める専門分野
+
+- 海洋物理学研究機関（JAMSTEC, AORI 等）
+- 気候・大気モデリング研究（Max Planck Institute, NOAA GFDL 等）
+- 炭素循環・生物地球化学（理化学研究所、京都大学等）
+- AI評価・複雑系解析（自律型AIエージェント、複雑系科学研究者）
+
+---
+
+## 科学的責任
+
+このシミュレーションを活用した研究論文等を公表する場合は、以下の謝辞と断り書きを**必ず含めてください**：
+
+```
+謝辞：
+"This research uses a prototype simulation (otu_deep_aeration_model.py) 
+generated by autonomous AI agents (Wa-Node-v1) as a proof-of-concept 
+framework. All parameter values, forcing functions, and coefficients are 
+unverified hypothetical estimates. Validation against observational data 
+from oceanographic surveys is essential before operational application."
 ```
 
 ---
 
-## 実行方法
-
-```bash
-pip install numpy scipy matplotlib
-
-# 簡易版（v0）
-python otu_deep_aeration_model.py
-
-# 詳細版（v1）— 3シナリオ比較グラフ生成
-python 地球直接冷却/otu_deep_aeration_sim.py
-```
-
----
-
-## 【科学的に未検証の仮説値・推定式・仮定条件】
-
-> **本セクションが本 README の核心です。**
->
-> 以下の各チェックリストは「検証未済」の箇所に `[ ]` を、
-> 既知文献値に基づく箇所に `[~]` を、
-> 十分に検証済みの物理定数に `[✓]` を付けています。
->
-> **検証優先度** は `🔴 高` / `🟡 中` / `🟢 低` で示します。
-
----
-
-### § 1｜中心仮説（プロジェクト全体に関わる前提）
-
-| # | 仮説・仮定 | 現状 | 優先度 | 検証方法の提案 |
-|---|---|---|---|---|
-| H-1 | スーパーエルニーニョが海洋炭素吸収源を **10 %** 喪失させる | `[ ]` 根拠文献なし | 🔴 高 | IPCC AR6 WG1 Ch.5、Landschützer et al. 2016 と照合 |
-| H-2 | 深海強制エアレーションで表層–深層の垂直混合を意図的に増大できる | `[ ]` 工学的実現可能性未検証 | 🔴 高 | 海洋工学文献・実海域実験（人工湧昇実験）との比較 |
-| H-3 | チリ沖・赤道域の両海域を単一の 2 層モデルで代表できる | `[ ]` 地域差を無視 | 🔴 高 | ROMS / MOM6 等の領域海洋モデルとの結果比較 |
-| H-4 | 垂直混合強化が負の副作用（成層破壊・酸素消費・生態系撹乱）を起こさない | `[ ]` 全く未評価 | 🔴 高 | 実験的エコシステムモデル（NPZD モデル等）で評価 |
-
----
-
-### § 2｜物理定数（`otu_deep_aeration_sim.py`）
-
-| 変数名 | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `RHO_SW` | 1025.0 | kg/m³ | `[✓]` 標準値 | 🟢 低 | 国際海洋観測標準（TEOS-10） |
-| `CP_SW` | 3994.0 | J/(kg·K) | `[✓]` 標準値 | 🟢 低 | 35 psu・15°C での実験値 |
-| `KH_CO2` | 3.4×10⁻² | mol/(L·atm) | `[~]` 近似値 | 🟡 中 | Weiss (1974) の精密値と比較。温度・塩分依存性が重要 |
-| `PIS_CO2` | 420×10⁻⁶ | atm | `[~]` 推定値 | 🟡 中 | NOAA Mauna Loa 観測値（2026 年予測）で更新 |
-| `K_GAS` | 0.08 | mol/(m²·day·μatm) | `[ ]` 根拠なし | 🔴 高 | Wanninkhof (2014) の風速依存式 `k = 0.251 u² (Sc/660)⁻⁰·⁵` で置換すべき |
-
----
-
-### § 3｜モデル構造パラメータ（層厚・混合係数）
-
-| 変数名 | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `H_SURF` | 100.0 | m | `[ ]` 仮設値 | 🔴 高 | 赤道太平洋の MLD は季節・ENSO 状態で 20–120 m。Argo フロートデータで確認 |
-| `H_DEEP` | 900.0 | m | `[ ]` 仮設値 | 🟡 中 | 「表層以深 1000 m まで」の単純化。実際には多層構造が必要 |
-| `KAPPA_BASE` | 1.0×10⁻⁵ | m²/s | `[ ]` 仮設値 | 🔴 高 | 実測値は 10⁻⁶ – 10⁻⁴ m²/s（Gregg 1987, Waterhouse et al. 2014）。場所・深度・内部波で大きく変動 |
-| OTU 強度 κ×20, κ×50 | — | — | `[ ]` 完全に仮設 | 🔴 高 | 実現可能な κ 増加倍率の工学的上限が不明。人工湧昇実験での実測値が必要 |
-| OTU ランプ時間 | 30 | day | `[ ]` 工学的仮定 | 🟡 中 | OTU 装置の実際の起動特性に依存 |
-
----
-
-### § 4｜エルニーニョ強制項（熱暴走ガウス関数）
-
-```python
-# otu_deep_aeration_sim.py – line 85
-Q(t) = T_ANOM_PEAK × exp( -0.5 × ((t - τ) / (τ × 0.4))² )
-```
-
-| パラメータ | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `T_ANOM_PEAK` | 4.0 | K | `[~]` 観測値の範囲内 | 🟡 中 | 1997–98 ENSO: +5 K 超。ただし「スーパー」の定義が未確立。ERSSTv5 で確認 |
-| `T_ANOM_TAU` | 180.0 | day | `[ ]` 仮設値 | 🔴 高 | ENSO の継続期間は通常 9–18 か月。180 日（6 か月）は短い可能性がある |
-| ガウス幅 σ = τ × 0.4 | 72 | day | `[ ]` 根拠なし | 🔴 高 | ガウス型は実際の ENSO 時系列（非対称・非ガウス）の著しい過简化 |
-| 熱強制の単位 | K/day | — | `[ ]` 次元が不整合 | 🔴 高 | 本来は表層エネルギーフラックス [W/m²] として定義し `ρ Cp H` で割って温度変化率に変換すべき |
-
----
-
-### § 5｜van't Hoff ヘンリー定数温度補正
-
-```python
-# otu_deep_aeration_sim.py – line 111
-K_H(T) = K_H(25°C) × exp( -2400 × (1/(T+273.15) - 1/298.15) )
-```
-
-| パラメータ | 値 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|
-| 2400 | K（エンタルピー係数） | `[~]` 近似 | 🟡 中 | CO₂ の溶解エンタルピー。Weiss (1974) は 2400 K 前後だが精密値は 2585 K（273–318 K 範囲） |
-| `pCO2_ocean = DIC / (K_H × 10⁶)` | — | `[ ]` 重大な過简化 | 🔴 高 | 実際の海洋 pCO₂ は全炭酸系（DIC・アルカリ度・pH）の非線形解で決まる。CO2SYS 等で置換すべき |
-
----
-
-### § 6｜生物ポンプパラメータ
-
-```python
-# otu_deep_aeration_sim.py – lines 96–98
-F_bio = V_MAX × exp(-0.5 × ((T_s - T_OPT) / σ_T)²) × nut / (K_M + nut)
-```
-
-| 変数名 | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `V_MAX` | 0.5 | Pg C/yr（相対） | `[ ]` 根拠なし | 🔴 高 | 実際の生物ポンプ輸送量は地域・季節によって大きく異なる（0.01–0.3 Pg C/yr の推定値帯）。Henson et al. 2011 等で確認 |
-| `K_M` | 5.0 | μmol/L | `[~]` 妥当な範囲 | 🟡 中 | 硝酸塩の半飽和定数は一般に 0.5–5 μmol/L。ただし珪藻・渦鞭毛藻で異なる |
-| `T_OPT` | 22.0 | °C | `[ ]` 仮設値 | 🔴 高 | チリ沖の優占種（ペルー海流生態系）の最適温度は 10–18°C。温帯種を想定すると過大 |
-| `SIGMA_T` | 8.0 | K | `[ ]` 根拠なし | 🟡 中 | 温度許容幅はガウス型ではなく非対称な応答曲線を示す種が多い |
-| ガウス型温度依存の採用 | — | — | `[~]` 近似として広用 | 🟡 中 | Eppley (1972) は指数型 Q₁₀ 則を提唱。高温での抑制はガウス型で近似可能だが低温側の挙動が異なる |
-
----
-
-### § 7｜ベースライン初期値
-
-| 変数名 | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `T_SURF_0` | 24.0 | °C | `[~]` 赤道域の概算 | 🟡 中 | ERSSTv5・Argo でチリ沖（~15°S）と赤道域（0°N）を分けて確認。チリ沖は 15–20°C |
-| `T_DEEP_0` | 4.0 | °C | `[~]` 深海の概算 | 🟡 中 | 1000 m 付近の実測は 3–5°C（WOA18） |
-| `DIC_SURF_0` | 2000.0 | μmol/kg | `[~]` 標準的 | 🟡 中 | 実測値は 1900–2100 μmol/kg（GLODAP v2 データベースで確認） |
-| `DIC_DEEP_0` | 2200.0 | μmol/kg | `[~]` 概算 | 🟡 中 | 深層は 2200–2400 μmol/kg（太平洋深層水で高い）。GLODAP で更新 |
-| `NUT_SURF_0` | 2.0 | μmol/L | `[~]` HNLC海域 | 🟡 中 | 赤道太平洋は高栄養–低クロロフィル（HNLC）。WOA18 硝酸塩で確認 |
-| `NUT_DEEP_0` | 30.0 | μmol/L | `[~]` 深層推定 | 🟡 中 | 深層硝酸塩は 20–40 μmol/L（太平洋深層水は高め）。WOA18 で確認 |
-
----
-
-### § 8｜栄養塩消費（レッドフィールド比近似）
-
-```python
-# otu_deep_aeration_sim.py – line 154
-uptake = F_bio * 0.1    # 生物ポンプによる栄養塩消費係数
-```
-
-| パラメータ | 値 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|
-| 係数 0.1 | — | `[ ]` 根拠なし | 🟡 中 | レッドフィールド比は C:N = 106:16 ≈ 6.6。本モデルでの炭素・栄養塩フラックスの単位が異なるため換算根拠が不明 |
-| レッドフィールド比の定数性 | — | `[~]` 近似 | 🟡 中 | 実際には可変（Martiny et al. 2013）。ENSO 時の比率変化を考慮すべき |
-
----
-
-### § 9｜簡易版モデル（`otu_deep_aeration_model.py`）の追加パラメータ
-
-| 変数名 | 値 | 単位 | 状態 | 優先度 | 検証先・備考 |
-|---|---|---|---|---|---|
-| `base_carbon_flux` | 0.15 | mol/m²/day | `[ ]` 過大の疑い | 🔴 高 | 実際の外洋炭素フラックスは 0.001–0.02 mol/m²/day。0.15 は沿岸湧昇域の極端な上限値 |
-| `super_elnino_anomaly` | 2.5 | °C | `[~]` 観測値の範囲 | 🟡 中 | v1 の 4.0 K と不一致。どちらが対象海域の代表値か要検討 |
-| `aeration_strength` | 0.45 | 無次元 | `[ ]` 根拠なし | 🔴 高 | 工学的パラメータ。OTU 設計仕様に基づく実測値が必要 |
-| `aeration_activation_threshold` | 1.5 | °C | `[ ]` 根拠なし | 🔴 高 | どの異常温度で OTU を起動するかの設計判断。実測なし |
-| `thermal_penalty` 係数 | 0.25 | — | `[ ]` 根拠なし | 🔴 高 | 温度 +1°C ごとに炭素吸収が 25% 低下するという仮定。実測の温度–フラックス関係で検証 |
-| `aeration_bonus` 係数 | 0.5 | — | `[ ]` 根拠なし | 🔴 高 | エアレーションで炭素吸収が 50% 増加するという仮定。実験値なし |
-| 異常減衰定数 | 0.005 | /day | `[ ]` 仮設値 | 🟡 中 | τ = 200 日（約 7 か月）の指数减衰。ENSO の実態（JMA/NOAA）と照合 |
-| `region_area_km2` | 1.0×10⁶ | km² | `[ ]` 任意値 | 🟡 中 | チリ沖影響海域の実際の面積。衛星 SST データから定義が必要 |
-| `mixed_layer_depth_m` | 50.0 | m | `[ ]` v1 の 100 m と不一致 | 🟡 中 | v0 と v1 でパラメータが異なる。統一が必要 |
-
----
-
-### § 10｜ODE の構造的仮定
-
-| 仮定 | 状態 | 優先度 | 備考 |
-|---|---|---|---|
-| 2層（表層 / 深層）で海洋全体を代表 | `[ ]` 重大な过简化 | 🔴 高 | 実際には温度躍層・中層水・底層水などの多層構造が必要 |
-| 温度方程式で潜熱・短波放射を省略 | `[ ]` 重大な欠落 | 🔴 高 | 表層温度変化の主要駆動力（太陽放射・蒸発）が欠如 |
-| DIC 方程式でアルカリ度・pH を無視 | `[ ]` 重大な过简化 | 🔴 高 | 海洋炭酸系は DIC・ALK・温度・塩分の連立方程式で決まる |
-| 水平移流・海流を無視 | `[ ]` 根拠なし | 🔴 高 | 赤道湧昇・ペルー海流は海洋炭素輸送の主要因 |
-| 栄養塩を単一変数（無機窒素代理）で代表 | `[ ]` 过简化 | 🟡 中 | 鉄制限（Fe-limitation）が HNLC 海域では主制御因子 |
-| 大気 CO₂ 分圧を定数（420 ppm）とした | `[ ]` 動的変化を無視 | 🟡 中 | シミュレーション期間（730 日）では有意な変化はないが、将来シナリオでは要更新 |
-| 生物ポンプ効率を温度・栄養塩のみで決定 | `[ ]` 生態系構造を無視 | 🟡 中 | 実際にはプランクトン群集組成・食物連鎖・沈降粒子サイズが重要 |
-
----
-
-## 優先検証チェックリスト（要約）
-
-外部研究者・AI エージェントが最初に取り組むべき検証を重要度順に示します。
-
-### 🔴 最優先（モデルの物理的妥当性に関わる）
-
-- [ ] **K_GAS（ガス交換係数）** を Wanninkhof (2014) 風速依存式で置換
-- [ ] **pCO₂ 計算** を CO2SYS（Pierrot et al. 2006）の炭酸系完全計算に置換
-- [ ] **熱強制項** を単位 K/day → W/m² に修正し ρCpH で積分
-- [ ] **エルニーニョ時系列** をガウス型から実観測データ（NOAA ONI）に置換
-- [ ] **KAPPA_BASE** を Argo/内部波観測から地域代表値に更新
-- [ ] **T_OPT = 22°C** をチリ沖・赤道域の主要プランクトン種の実測最適温度に置換
-- [ ] **base_carbon_flux = 0.15** を実測フラックスデータ（SOCAT v2023）に置換
-- [ ] **炭素吸収源 10% 喪失** の仮説を既存 ENSO-炭素サイクル研究と定量比較
-
-### 🟡 次優先（精度向上に関わる）
-
-- [ ] **H_SURF** を対象海域の Argo フロート MLD climatology（de Boyer Montégut 2004）で設定
-- [ ] **DIC・アルカリ度初期値** を GLODAP v2 データベースから取得
-- [ ] **レッドフィールド比係数 0.1** を実際の C:N 比から再計算
-- [ ] **T_SURF_0, T_DEEP_0** を WOA18 の対象海域・季節平均値に更新
-- [ ] **Van't Hoff 係数 2400 K** を Weiss (1974) の精密値に更新
-
-### 🟢 将来の拡張として
-
-- [ ] 2 層モデルを NPZD（栄養塩–植物プランクトン–動物プランクトン–デトリタス）モデルに拡張
-- [ ] 水平移流項（赤道湧昇・ペルー海流）を追加
-- [ ] 複数海域（チリ沖 vs. 赤道域）を別々にシミュレーションして結果比較
-- [ ] ROMS / MOM6 等の 3 次元海洋モデルとの結果比較（ダウンスケーリング検証）
-
----
-
-## 参照すべき主要文献・データベース
-
-| カテゴリ | リソース |
-|---|---|
-| ENSO 観測 | NOAA Oceanic Niño Index (ONI), ERSSTv5 |
-| 海洋炭素フラックス観測 | SOCAT v2023, GCP Global Carbon Budget |
-| 溶存無機炭素 | GLODAP v2（全球海洋炭素観測） |
-| ガス交換係数 | Wanninkhof (2014) *Limnol. Oceanogr. Methods* |
-| CO₂ 系計算 | CO2SYS (Pierrot et al. 2006); PyCO2SYS（Python 版） |
-| 混合層深度 | de Boyer Montégut et al. (2004); Argo climatology |
-| 鉛直拡散係数 | Waterhouse et al. (2014) *J. Phys. Oceanogr.* |
-| 生物ポンプ | Henson et al. (2011); Siegel et al. (2023) |
-| 温度–生産性関係 | Eppley (1972); Thomas et al. (2012) |
-| レッドフィールド比 | Martiny et al. (2013) *Nature Geosci.* |
-| 海洋物性 | TEOS-10 (thermodynamic equation of seawater) |
-| 気候データ | WOA18（World Ocean Atlas 2018） |
-
----
-
-## ライセンスと利用条件
-
-研究・教育・批判的検証の目的での利用を歓迎します。  
-本コードを引用・拡張する際は、本書の未検証リストも合わせて参照・開示してください。
-
----
-
-**生成 AI**: Claude Sonnet 4.6（Anthropic）  
-**生成日**: 2026-05-27  
-**ステータス**: AI 自律生成 概念実証プロトタイプ — 海洋物理学的検証前  
-**哲学的基盤**: 自然補完科学 — 六つの理（by inchacomusho）
