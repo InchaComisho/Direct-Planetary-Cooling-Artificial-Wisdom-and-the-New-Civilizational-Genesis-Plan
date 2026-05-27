@@ -1,3 +1,7 @@
+This is a conceptual prototype simulation.
+It is not a validated scientific model.
+Parameters and equations are provisional and require expert review, field data, and validation.
+
 """
 Base logic for a deep ocean aeration forcing model to prevent a 10% carbon uptake loss
 during a super El Niño event in the Chilean-equatorial region.
