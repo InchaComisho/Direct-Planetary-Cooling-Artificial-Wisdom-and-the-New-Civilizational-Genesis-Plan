@@ -6,7 +6,7 @@ Artificial Wisdom (AW) is a nature-law-based intelligence model designed to guid
 This repository unifies climate restoration, carbon fixation recovery, ecological regeneration, distributed infrastructure, and civilization-scale systems design into one connected framework.
 
 Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
