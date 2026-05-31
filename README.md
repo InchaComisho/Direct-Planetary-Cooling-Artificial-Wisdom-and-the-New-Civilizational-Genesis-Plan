@@ -220,6 +220,18 @@ https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
 ---
 
+## Related Repositories
+
+- [The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling) — Core conceptual paper proposing Direct Planetary Cooling as a necessary complementary layer.
+- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
+- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
+- [Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — DPC framework based on Ocean Tuning Units.
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — Modular DPC architecture combining OBS and UMC.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
+
+---
+
 # Keywords
 
 Direct Planetary Cooling
