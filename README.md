@@ -218,6 +218,15 @@ https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civili
 
 https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Repositories
