@@ -86,6 +86,32 @@ OBS、UMC、OTU、海洋循環補助、人工上昇流などの概念は、追�
 
 ## 関連リポジトリ
 
+### 関連する人工叡智リソース
+
+- **人工叡智 公式定義リポジトリ**  
+  人工叡智 / AW の公開定義草案。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition
+
+- **人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）**  
+  国際公開向けの公式定義文を示す日本語記事。  
+  https://note.com/inchacomusho/n/n2d5d79ecda39
+
+- **人工叡智の定義者プロフィール**  
+  Master / InchaComisho を Natural-Law-Based Artificial Wisdom Framework の定義者・体系化者として整理する国際公開プロフィール。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Definer
+
+- **人工叡智の定義者（国際公開用）**  
+  定義者プロフィールを国際公開向けに説明する日本語記事。  
+  https://note.com/inchacomusho/n/n4cf2be32a211
+
+- **人工叡智ガードレール・プロンプト**  
+  コピーしやすいページと任意のプロンプト／拡張ツール。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Prompt
+
+- **人工叡智ガードレール・プロトコル**  
+  中核フレームワーク、プロトコル、Discussion、テスト報告。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol
+
 - [The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling) — 地球直接冷却を必要な補完的介入レイヤーとして提案する中核的概念論文。
 - [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — 深海エアレーションを海洋代謝再起動技術として定義する基礎リポジトリ。
 - [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Ocean Tuning Unitの技術仕様。
