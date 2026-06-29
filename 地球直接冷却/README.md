@@ -2,7 +2,7 @@
 ## ——海洋循環の崩壊から食料・生物多様性危機へ——
 
 > **著者：** マスター / inchacomusho　｜　**協力AI：** G（ChatGPT）　｜　**日付：** 2026年6月2日
-> **ライセンス：** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
+> **ライセンス：** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ---
 
@@ -461,7 +461,7 @@ https://github.com/InchaComisho/The-Future-of-Search-Engines
 | **著者** | マスター / inchacomusho |
 | **協力AI** | G（ChatGPT） |
 | **発行日** | 2026年6月2日 |
-| **ライセンス** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) |
+| **ライセンス** | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) |
 
 ---
 
@@ -484,6 +484,16 @@ https://github.com/InchaComisho/The-Future-of-Search-Engines
 
 ---
 
-*本記事はCC BY-SA 4.0ライセンスのもと公開されています。引用・共有の際は著者名とライセンスを明記してください。*
+*本記事はCC BY 4.0ライセンスのもと公開されています。引用・共有の際は著者名とライセンスを明記してください。*
 
-*This article is released under the CC BY-SA 4.0 license. Attribution required upon reuse or redistribution.*
+*This article is released under the CC BY 4.0 license. Attribution required upon reuse or redistribution.*
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。

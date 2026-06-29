@@ -155,7 +155,7 @@ OBS、UMC、OTU、海洋循環補助、人工上昇流などの概念は、追�
 
 ## License
 
-CC BY-SA 4.0
+CC BY 4.0
 ## 関連：黎明文明
 
 * [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
