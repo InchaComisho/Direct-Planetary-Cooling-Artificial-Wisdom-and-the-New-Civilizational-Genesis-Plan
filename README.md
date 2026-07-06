@@ -1,6 +1,8 @@
 # Direct Planetary Cooling Artificial Wisdom and the New Civilizational Genesis Plan
 An integrated open research framework for Direct Planetary Cooling, microbial restoration, Ocean Tuning Unit (OTU), Artificial Wisdom, Wa-Node distributed intelligence, and the reconstruction of sustainable civilization based on Natural Complement Science.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Artificial Wisdom (AW) is a nature-law-based intelligence model designed to guide sustainable civilization through holistic system balance and long-term planetary stability.
 
 This repository unifies climate restoration, carbon fixation recovery, ecological regeneration, distributed infrastructure, and civilization-scale systems design into one connected framework.

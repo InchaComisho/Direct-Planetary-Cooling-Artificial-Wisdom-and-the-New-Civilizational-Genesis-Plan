@@ -1,5 +1,7 @@
 # 地球直接冷却・人工叡智・新文明創成計画
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan
 
 ---
